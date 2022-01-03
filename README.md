@@ -1,3 +1,3 @@
 # Online Resume
 
-Sample for assignment
+Sample for deployed app assignment
